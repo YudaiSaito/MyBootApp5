@@ -1,4 +1,4 @@
-package jp.te4a.spring.boot.myapp5;
+package jp.te4a.spring.boot.myapp6;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
