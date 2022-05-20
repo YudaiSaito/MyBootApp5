@@ -9,6 +9,7 @@ public class HelloController {
 
     @RequestMapping("/")
     public String index(Model model) {
+        model.addAttribute("msg", "this is a setting message");
         return "index";
     }
 }
